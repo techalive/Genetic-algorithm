@@ -51,7 +51,7 @@ List of features:
 ... etc
 
 ## Status
-Project is:  _finished_?
+Project is:  _finished_
 
 ## Contact
 Powered by [@techalive] - feel free to contact me!
