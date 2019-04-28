@@ -36,7 +36,6 @@ Shows snippets of my Genetic Algorithm code:
 		System.out.print("c = ");
 		MaxGenetic.c = scr.nextDouble();
 		scr.close();
-		
 		MaxGenetic.findMaximum();
 	}`
 
